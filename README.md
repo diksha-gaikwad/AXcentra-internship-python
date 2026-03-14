@@ -6,5 +6,5 @@
 4. Weather App (OpenWeather API)
 5. Crypto Price Fetcher (CoinGecko API)
 
-Author: Diksha
+
 Language: Python
